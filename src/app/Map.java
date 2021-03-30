@@ -1,7 +1,7 @@
 class Map
 {
     private int array[][];
-    private int height=4,width=4;
+    private int height,width;
     public Map(int height,int width)
     {
         this.height=height;
